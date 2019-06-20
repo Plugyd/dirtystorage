@@ -10,7 +10,7 @@
     });
 
     # Инициализация 
-    React\Core\Store::init();
+   # React\Core\Store::init();
      # Инициализация 
 	React\Core\Router::init();
   
