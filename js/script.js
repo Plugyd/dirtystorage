@@ -7,7 +7,7 @@
 
 var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'http://maloporno.com/sfiles/cdn_video/intf6o15hh5kh4ebh9maf0lkv7/1561016963/449.mp4',
+    url: 'http://maloporno.com/sfiles/cdn_video/tFgCVu4AAp5PyzOXs1Chug/1561354773/101.mp4',
     volume: 0.5,
     isLive: false,
     muted: false,
@@ -25,6 +25,7 @@ var art = new Artplayer({
     mutex: true,
     theme: '#ffad00'
 });
+
 
 var isNoviBuilder = window.xMode;
 var userAgent = navigator.userAgent.toLowerCase(),
