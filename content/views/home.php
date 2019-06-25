@@ -83,12 +83,12 @@
                         aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00">
                         <div class="slick-slide-inner">
                             <div class="slick-slide-caption"><a class="thumb-ann thumb-mixed_large"
-                                    href="images/NlT7V71.jpg" data-lightgallery="item"
+                                    href="images/solo.jpg" data-lightgallery="item"
                                     tabindex="0"><img class="thumb-ann__image"
-                                        src="images/NlT7V71.jpg" alt=""
+                                        src="images/solo.jpg" alt=""
                                         width="961" height="664">
                                     <div class="thumb-ann__caption">
-                                        <p class="thumb-ann__title heading-3">Lesbian </p>
+                                        <p class="thumb-ann__title heading-3">Solo </p>
                                     </div>
                                 </a>
                             </div>
@@ -98,12 +98,12 @@
                         aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00">
                         <div class="slick-slide-inner">
                             <div class="slick-slide-caption"><a class="thumb-ann thumb-mixed_large"
-                                    href="images/tTxaS-KisLQ.jpg data-lightgallery="item"
+                                    href="images/homevideo.jpg data-lightgallery="item"
                                     tabindex="0"><img class="thumb-ann__image"
-                                        src="images/tTxaS-KisLQ.jpg" alt=""
+                                        src="images/homevideo.jpg" alt=""
                                         width="961" height="664">
                                     <div class="thumb-ann__caption">
-                                        <p class="thumb-ann__title heading-3">Lesbian </p>
+                                        <p class="thumb-ann__title heading-3">Home Video </p>
                                     </div>
                                 </a>
                             </div>
@@ -115,7 +115,7 @@
                             <div class="slick-slide-caption"><a class="thumb-ann thumb-mixed_large"
                                     href="images/group-image-4-1200x800-original.jpg" data-lightgallery="item"
                                     tabindex="0"><img class="thumb-ann__image"
-                                        src="https://pp.userapi.com/c543101/v543101951/5418e/kdAdetL_QBk.jpg" alt=""
+                                        src="images/lesbi.jpg" alt=""
                                         width="961" height="664">
                                     <div class="thumb-ann__caption">
                                         <p class="thumb-ann__title heading-3">Lesbian </p>
